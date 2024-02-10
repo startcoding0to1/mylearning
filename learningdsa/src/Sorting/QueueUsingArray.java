@@ -1,4 +1,4 @@
-package collection;
+package Sorting;
 
 public class QueueUsingArray {
 	static class Queue{

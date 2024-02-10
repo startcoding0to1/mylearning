@@ -1,6 +1,6 @@
-package collection;
+package queue;
 
-import collection.CircularQueue.Queue;
+import queue.CircularQueue.Queue;
 
 public class QueueUsingLinkedList {
 	

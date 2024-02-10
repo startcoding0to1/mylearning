@@ -1,4 +1,4 @@
-package collection;
+package tree;
 
 public class BinaryTreesYT {
 	static class Node{

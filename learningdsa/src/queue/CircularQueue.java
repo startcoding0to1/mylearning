@@ -1,6 +1,6 @@
-package collection;
+package queue;
 
-import collection.QueueUsingArray.Queue;
+import Sorting.QueueUsingArray.Queue;
 
 public class CircularQueue {
 	static class Queue{

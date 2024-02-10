@@ -1,6 +1,6 @@
-package collection;
+package stack;
 
-import collection.StackUsingAL.Stack;
+import stack.StackUsingAL.Stack;
 
 public class StackUsingLL {
 	static class Stack{
