@@ -1,7 +1,5 @@
 package queue;
 
-import Sorting.QueueUsingArray.Queue;
-
 public class CircularQueue {
 	static class Queue{
 		static int [] arr;
