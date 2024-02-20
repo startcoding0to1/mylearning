@@ -28,7 +28,7 @@ public class MyHashSet {
 		}
 		
 		//Delete
-		set.remove(1);
+		System.out.println("Remove:  "+set.remove(1));
 		System.out.println(set);
 		
 		//Iterator
